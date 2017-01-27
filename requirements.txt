@@ -1,0 +1,2 @@
+Django==1.8.17
+git+https://github.com/stepheweffie/django-mathfield.git@2b85d5064ebb530be7ec4caa00b2cfc3f98c2124#egg=django_mathfield
